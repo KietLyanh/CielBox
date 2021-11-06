@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dropbox</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Connexion</string>
+    <string name="register">S\'inscrire</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de pas</string>
+    <string name="confirmpassword">Confirmer le mot de passe</string>
+    <string name="File" >Fichier</string>
+    <string name="Image" >Image</string>
+    <string name="Logout" >Déconnexion</string>
+    <string name="Video" >Vidéo</string>
+    <string name="Home" >Accueil</string>
+    <string name="home" >accueil</string>
+    <string name="yourgallery">Votre Galerie</string>
+    <string name="Group2" >Groupe 2</string>
+    <string name="aboutus" >A propos de nous</string>
+    <string name="addimg">Ajouter image</string>
+    <string name="file1" >Fichier 1</string>
+    <string name="file2" >Fichier 2</string>
+    <string name="file3" >Fichier 3</string>
+    <string name="file4" >Fichier 4</string>
+    <string name="file5" >Fichier 5</string>
+    <string name="file6" >Fichier 6</string>
+    <string name="welcometodropbox" >Bienvenue à Dropbox</string>
+    <string name="car1" >Image 1</string>
+    <string name="car2" >Image 2</string>
+    <string name="car3" >Image 3</string>
+    <string name="car4" >Image 4</string>
+    <string name="car5" >Image 5</string>
+    <string name="car6" >Image 6</string>
+    <string name="video1" >Vidéo 1</string>
+    <string name="video2" >Vidéo 2</string>
+    <string name="video3" >Vidéo 3</string>
+    <string name="video4" >Vidéo 4</string>
+    <string name="video5" >Vidéo 5</string>
+    <string name="video6" >Vidéo 6</string>
+    <string name="profile">Profil</string>
+    <string name="myemail" >Mon e-mail</string>
+    <string name="Name" >Nom</string>
+    <string name="Account" >Compte</string>
+    Account
+</resources>

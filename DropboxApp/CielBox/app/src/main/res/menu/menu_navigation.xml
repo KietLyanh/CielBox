@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_home" android:title="@string/Home" android:icon="@drawable/home"/>
+    <item android:id="@+id/menu_file" android:title="@string/File" android:icon="@drawable/folder"/>
+    <item android:id="@+id/menu_image" android:title="@string/Image" android:icon="@drawable/image"/>
+    <item android:id="@+id/menu_video" android:title="@string/Video" android:icon="@drawable/video"/>
+</menu>

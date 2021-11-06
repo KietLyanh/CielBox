@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dropbox</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="File" tools:ignore="MissingTranslation">File</string>
+    <string name="Image" tools:ignore="MissingTranslation">Image</string>
+    <string name="Logout" tools:ignore="MissingTranslation">Log out</string>
+    <string name="Video" tools:ignore="MissingTranslation">Video</string>
+    <string name="Home" tools:ignore="MissingTranslation">Home</string>
+    <string name="yourgallery">Your Gallery</string>
+    <string name="Group2" tools:ignore="MissingTranslation">Group 2</string>
+    <string name="aboutus" tools:ignore="MissingTranslation">About Us</string>
+    <string name="addimg" tools:ignore="MissingTranslation">Add Image</string>
+    <string name="file1" tools:ignore="MissingTranslation">File 1</string>
+    <string name="file2" tools:ignore="MissingTranslation">File 2</string>
+    <string name="file3" tools:ignore="MissingTranslation">File 3</string>
+    <string name="file4" tools:ignore="MissingTranslation">File 4</string>
+    <string name="file5" tools:ignore="MissingTranslation">File 5</string>
+    <string name="file6" tools:ignore="MissingTranslation">File 6</string>
+    <string name="car1" tools:ignore="MissingTranslation">Image 1</string>
+    <string name="car2" tools:ignore="MissingTranslation">Image 2</string>
+    <string name="car3" tools:ignore="MissingTranslation">Image 3</string>
+    <string name="car4" tools:ignore="MissingTranslation">Image 4</string>
+    <string name="car5" tools:ignore="MissingTranslation">Image 5</string>
+    <string name="car6" tools:ignore="MissingTranslation">Image 6</string>
+    <string name="video1" tools:ignore="MissingTranslation">Video 1</string>
+    <string name="video2" tools:ignore="MissingTranslation">Video 2</string>
+    <string name="video3" tools:ignore="MissingTranslation">Video 3</string>
+    <string name="video4" tools:ignore="MissingTranslation">Video 4</string>
+    <string name="video5" tools:ignore="MissingTranslation">Video 5</string>
+    <string name="video6" tools:ignore="MissingTranslation">Video 6</string>
+    <string name="profile" tools:ignore="MissingTranslation">Profile</string>
+    <string name="myemail" tools:ignore="MissingTranslation">My email</string>
+    <string name="Name" tools:ignore="MissingTranslation">Name</string>
+    <string name="Account" tools:ignore="MissingTranslation">Account</string>
+    <string name="home" tools:ignore="MissingTranslation">Home</string>
+    <string name="text" tools:ignore="MissingTranslation">Night Mode</string>
+    <string name="nightmode" tools:ignore="MissingTranslation">Night Mode</string>
+
+    <string name="welcometodropbox" tools:ignore="MissingTranslation">Welcome to Dropbox</string>
+
+
+</resources>
