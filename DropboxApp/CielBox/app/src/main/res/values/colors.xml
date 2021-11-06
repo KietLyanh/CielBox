@@ -14,6 +14,6 @@
     <color name="endblue">#0bcce6</color>
     <color name="blue">#3684C3</color>
     <color name="textColor">#000000</color>
-    <style name="Dialog" parent="Theme.AppCompat.Light.Dialog.Alert"/>
+    <color name="backgroundColor">#FFFFFFFF</color>
 
 </resources>
